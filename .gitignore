@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Git Ignore large candidate data file (~487MB)
+India_runs_data_and_ai_challenge/candidates.jsonl
+*.jsonl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Word/Office temp files
+~$*
